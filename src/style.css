@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+p {
+  font-size: 40px;
+  color: #fff;
+}
+
+i {
+  color: #fff;
+  font-size: 40px;
+}
